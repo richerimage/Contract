@@ -165,7 +165,8 @@ and after The Work.
 ## Signatures
 
 The undersigned confirm that they have read, understood, and shall adhere to the
-terms laid out in this document:
+terms laid out in this document. This contract is under the legal jurisdiction
+of England and Wales:
 
 * **Harry Roberts:**
 * **Date:**
